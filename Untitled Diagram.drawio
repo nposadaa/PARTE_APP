@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.4">
+  <diagram name="Page-1" id="IrJ-9nmpMdFdV6Iic_na">
+    <mxGraphModel dx="736" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-360" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-8" value="PARTE App" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#ffffff;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#005700;mainText=;fillColor=#008a00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-9" value="This are your recent PARTE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="100" y="-250" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-10" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-200" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-11" value="Dinner w/ friends" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.topButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="aIAFqa_WBiRgfP2Qrlc6-10">
+          <mxGeometry width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-12" value="Family brunch" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="aIAFqa_WBiRgfP2Qrlc6-10">
+          <mxGeometry y="50" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-13" value="Work beers nigh" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="aIAFqa_WBiRgfP2Qrlc6-10">
+          <mxGeometry y="100" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-16" value="Tap for new parte" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="aIAFqa_WBiRgfP2Qrlc6-16" parent="1" source="aIAFqa_WBiRgfP2Qrlc6-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="112" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
