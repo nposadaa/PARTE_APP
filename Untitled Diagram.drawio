@@ -1,40 +1,244 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.4">
   <diagram name="Page-1" id="IrJ-9nmpMdFdV6Iic_na">
-    <mxGraphModel dx="736" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="2683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="80" y="-360" width="280" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-8" value="PARTE App" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#ffffff;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#005700;mainText=;fillColor=#008a00;" vertex="1" parent="1">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-8" value="PARTE App" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#ffffff;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#005700;mainText=;fillColor=#008a00;" parent="1" vertex="1">
           <mxGeometry x="100" y="-300" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-9" value="This are your recent PARTE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-9" value="This are your recent PARTE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
           <mxGeometry x="100" y="-250" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-10" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-200" width="220" height="150" as="geometry" />
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-10" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-180" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-11" value="Dinner w/ friends" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.topButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="aIAFqa_WBiRgfP2Qrlc6-10">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-11" value="Dinner w/ friends" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.topButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" parent="aIAFqa_WBiRgfP2Qrlc6-10" vertex="1">
           <mxGeometry width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-12" value="Family brunch" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="aIAFqa_WBiRgfP2Qrlc6-10">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-12" value="Family brunch" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" parent="aIAFqa_WBiRgfP2Qrlc6-10" vertex="1">
           <mxGeometry y="50" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-13" value="Work beers nigh" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="aIAFqa_WBiRgfP2Qrlc6-10">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-13" value="Work beers nigh" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" parent="aIAFqa_WBiRgfP2Qrlc6-10" vertex="1">
           <mxGeometry y="100" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="100" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-16" value="Tap for new parte" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-16" value="Tap for new parte" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="160" y="30" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="aIAFqa_WBiRgfP2Qrlc6-16" parent="1" source="aIAFqa_WBiRgfP2Qrlc6-15">
+        <mxCell id="aIAFqa_WBiRgfP2Qrlc6-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="aIAFqa_WBiRgfP2Qrlc6-15" target="aIAFqa_WBiRgfP2Qrlc6-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="112" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-2" value="PARTE App" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#ffffff;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#005700;mainText=;fillColor=#008a00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-3" value="How do you want to start?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MAIN SCREEN&lt;/h1&gt;&lt;p&gt;This is the landing main screen with your recent activity as well as the option to create new partes and navigate to new screens&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-5" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-360" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-13" value="PARTE App" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#ffffff;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#005700;mainText=;fillColor=#008a00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-22" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-300" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-23" value="Tap for user profile and settings" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="225" y="-480" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="oNFBNsQv0pPokmbKPRwb-23" source="oNFBNsQv0pPokmbKPRwb-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="-390" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-25" value="User Profile and app settings" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="620" y="-260" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-28" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.017;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oNFBNsQv0pPokmbKPRwb-22" target="oNFBNsQv0pPokmbKPRwb-12">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="370" y="-70" as="sourcePoint" />
+            <mxPoint x="470" y="-170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="-40" />
+              <mxPoint x="410" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PROFILE SCREEN&lt;/h1&gt;&lt;p&gt;This is the screen where user manages its profile and app settings&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-31" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aIAFqa_WBiRgfP2Qrlc6-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="370" y="640" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-32" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-210" width="250" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-33" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-210" width="250" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-34" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="95" y="440" width="250" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-35" value="Save Changes" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="730" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="-1090" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-38" value="PARTE App" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#ffffff;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#005700;mainText=;fillColor=#008a00;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-1030" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-39" value="Login screen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="115" y="-990" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-40" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Login screen&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-730" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-41" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-940" width="250" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-44" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-920" width="200" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-45" value="Sign In" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-46" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry width="180" height="10" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-47" value="User Name:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-48" value="johndoe" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry width="150" height="25" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-49" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="95" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-50" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry width="150" height="25" relative="1" as="geometry">
+            <mxPoint x="10" y="115" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-51" value="SIGN IN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="-150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-52" value="Forgot Password?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#9999ff;align=left;spacingLeft=0;fontStyle=4;resizeWidth=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry y="1" width="150" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="-110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-53" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry y="1" width="180" height="10" relative="1" as="geometry">
+            <mxPoint x="10" y="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-54" value="New User" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry y="1" width="150" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="-70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-55" value="SIGN UP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-44">
+          <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-56" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0.313;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oNFBNsQv0pPokmbKPRwb-51" target="aIAFqa_WBiRgfP2Qrlc6-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="620" y="-510" as="sourcePoint" />
+            <mxPoint x="900" y="-243" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="735" y="-250" />
+              <mxPoint x="705" y="-270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1100" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-58" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sign Up screen&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-740" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-59" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0.007;entryY=0.796;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oNFBNsQv0pPokmbKPRwb-57">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="229" y="-630" as="sourcePoint" />
+            <mxPoint x="548" y="-5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1115" y="95" />
+              <mxPoint x="1085" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-60" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="480" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-61" value="Start with Cámera" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.topButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-60">
+          <mxGeometry width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-62" value="Upload a Picture" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-60">
+          <mxGeometry y="50" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-63" value="Join a PARTE" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-60">
+          <mxGeometry y="100" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-64" value="Restaurant PARTE Code" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.bottomButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="oNFBNsQv0pPokmbKPRwb-60">
+          <mxGeometry y="150" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-66" value="PARTE App" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#ffffff;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#005700;mainText=;fillColor=#008a00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-67" value="How do you want to start?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-68" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="615" y="420" width="250" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-74" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0.972;entryY=0.311;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.002;exitY=0.143;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oNFBNsQv0pPokmbKPRwb-65" target="oNFBNsQv0pPokmbKPRwb-61">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="520" y="1270" as="sourcePoint" />
+            <mxPoint x="420" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-75" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;NEW PARTE&amp;nbsp; SCREEN&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="680" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oNFBNsQv0pPokmbKPRwb-76" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TAKE A PICTURE SCREEN&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="670" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
